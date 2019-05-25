@@ -1,1 +1,1 @@
-# jawabanarkademy
+1. REST adalah singkatan dari Representational state transfer yang pada dasarnya merujuk pada gaya arsitektur web yang memiliki banyak karakteristik mendasar dan mengatur perilaku klien dan server dan REST API memungkinkan Anda berinteraksi dengan Parse dari apa pun yang dapat mengirim permintaan HTTP.
